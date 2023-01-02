@@ -16,7 +16,8 @@ A discord bot I've been coding to learn nodejs and how discord bots work.
 
 # Running the bot yourself
 
-Note: You will need to install nodejs to run the bot, you can do so here: https://nodejs.org/en/download/ 
+Note: You will need to install nodejs to run the bot, you can do so here: https://nodejs.org/en/download/ \
+Also, for the bot to work, you'll need to change the config.js file located inside of src. You can easily find a tutorial on youtube on how to get both a discord and a mongodb token. (Might add written tutorial here in the future)
 
 If you want to test or run the bot on your machine you can follow this short guide:
 
